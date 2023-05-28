@@ -2,7 +2,7 @@
 
 Goal: Create an agent capable of generating and executing code. Also, store generations in a vector db and retrieve when appropraite. 
 
-Stretch: Have agent generate code to achieve desired tasks 
+Stretch: Have agent generate code to web scrape
 
 Inspiration: [Voyager](https://github.com/MineDojo/Voyager)
 

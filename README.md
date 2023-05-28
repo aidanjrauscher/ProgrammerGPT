@@ -7,7 +7,7 @@ Stretch: Have agent generate code to achieve desired tasks
 Inspiration: [Voyager](https://github.com/MineDojo/Voyager)
 
 ### TODO: 
-- [] Expand support to non built-in libraries 
+- [ ] Expand support to non built-in libraries 
 - [ ] Store results in vectordb - probably chroma
 - [ ] Fetch results from vectordb 
 - [ ] Fix script interaction - maybe an indefinite while loop?

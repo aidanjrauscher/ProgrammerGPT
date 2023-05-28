@@ -18,7 +18,7 @@ Inspiration: [Voyager](https://github.com/MineDojo/Voyager)
 
 ### Setup:
 1. Install requirements by running ```pip install requirements.txt```
-2. Create a .env file with and provide the OPENAI_API_KEY
+2. Create a .env file and provide the OPENAI_API_KEY
 3. Setup Chroma with ```git clone git@github.com:chroma-core/chroma.git```
 4. Build and start Chroma directory with ```docker compose --project-directory chroma/ up -d --build```
 5. Describe the code you want to generate using the `task` variable 
